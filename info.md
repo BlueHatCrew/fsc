@@ -1,6 +1,6 @@
 ## Disclaimer: this only works for iboss, if you want one for securely dm me. Also you need bookmarks enabled. Works on v108 to v111 (tested). ##
 
-Step 1. Bookmark the code in min.bookmarklet.js
+Step 1. Bookmark the code in mini.bookmarklet.js
 
 
 Step 2. Go to  https://tinyurl.com/byeswamp.
